@@ -34,7 +34,3 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may result in a warning or permanent expulsion from the project, as determined by the project maintainers. Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
-6. Attribution
-
-This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-
